@@ -1,16 +1,17 @@
-### Hi there 👋
+👨‍💻 **Kerim Cisneros** | IT Web Developer
 
-<!--
-**KerimCL11/KerimCL11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings! I'm Kerim, an adept IT Analyst from Hermosillo, Sonora, specializing in the seamless melding of web technologies and IT operations. Currently steering projects at AT Engine Mexico, my expertise spans developing React applications with robust Active Directory authentication, leveraging JWT, and integrating multifaceted databases like Microsoft SQL Server, PostgreSQL, and MySQL. My flair for API testing, server architecture, and virtualization complements my proficiency in Python.
 
-Here are some ideas to get you started:
+🔍 **Strengths**: Rapid Technological Adaptation, Problem Solving, System Security & Management, Project Execution & Efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Key Achievements**:
+- Orchestrated data protection and recovery strategies ensuring operational continuity.
+- Developed Python-based tools automating system installation and troubleshooting, enhancing reliability and efficiency.
+- Fortified system security through advanced encryption techniques and controlled access measures.
+
+🌐 **Skills**: JavaScript, React, Vue.js, Flask, Python, SQL, GitHub, Agile, Scrum, and more.
+
+📈 **I'm passionate about** leveraging technology to solve complex problems, streamline operations, and enhance system security. Continually seeking to collaborate on innovative projects and contribute to the tech community.
+
+Let's connect and explore synergies!
+- LinkedIn: [Kerim Cisneros](https://www.linkedin.com/in/kerimcl/)
