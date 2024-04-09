@@ -11,6 +11,5 @@ Greetings! I'm Kerim, an adept IT Analyst from Hermosillo, Sonora, specializing 
 
 🌐 **Skills**: JavaScript, React, Vue.js, Flask, Python, SQL, GitHub, Agile, Scrum, and more.
 
-📈 **I'm passionate about** leveraging technology to solve complex problems, streamline operations, and enhance system security. Continually seeking to collaborate on innovative projects and contribute to the tech community.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimcl11&show_icons=true&locale=en&layout=compact" alt="kerimcl11" /></p>
