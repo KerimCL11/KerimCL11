@@ -9,4 +9,4 @@ Greetings! I'm Kerim, an adept IT Analyst from Hermosillo, Sonora, specializing 
 - Developed Python-based tools automating system installation and troubleshooting, enhancing reliability and efficiency.
 - Fortified system security through advanced encryption techniques and controlled access measures.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimcl11&show_icons=true&locale=en&layout=compact" alt="kerimcl11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimcl11&show_icons=true&locale=en&layout=compact" alt="kerimcl11" /></p>
