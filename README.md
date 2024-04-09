@@ -13,5 +13,6 @@ Greetings! I'm Kerim, an adept IT Analyst from Hermosillo, Sonora, specializing 
 
 📈 **I'm passionate about** leveraging technology to solve complex problems, streamline operations, and enhance system security. Continually seeking to collaborate on innovative projects and contribute to the tech community.
 
-Let's connect and explore synergies!
-- LinkedIn: [Kerim Cisneros](https://www.linkedin.com/in/kerimcl/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimcl11&show_icons=true&locale=en&layout=compact" alt="kerimcl11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimcl11&show_icons=true&locale=en" alt="kerimcl11" /></p>
